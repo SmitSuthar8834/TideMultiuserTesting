@@ -1,8 +1,0 @@
-= MetaData.Schema.UId "e5547a64-e7eb-4902-9470-743fb1040635"
-= MetaData.Schema.A2 "UsrCreatioWebIntellige_FormPage"
-= MetaData.Schema.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
-~ MetaData.Schema.B2 ["c0c2f59c-f785-4d63-813e-7e0d2f13c913","fe291bc2-deb0-4616-af6a-1fb37dd2fa70","23916ce7-2ef7-4670-a343-e5288cae5399","c2a60305-5be7-46dd-a1bf-69e4f023d1c8"]
-= MetaData.Schema.B6 "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2"
-= MetaData.Schema.HD1 "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9"
-- MetaData.Schema.B7
-+ MetaData.Schema.B7 false
