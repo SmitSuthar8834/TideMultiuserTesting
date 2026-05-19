@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "6a36aaf1-8eaa-440c-a2a3-fff8459c13a7",
+    "Name": "UsrCreatioWebIntelligeMobileRelatedPage",
+    "ModifiedOnUtc": "\/Date(1778070604000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Creatio Web Intelligence (Mobile page settings)",
+    "DependsOn": []
+  }
+}
