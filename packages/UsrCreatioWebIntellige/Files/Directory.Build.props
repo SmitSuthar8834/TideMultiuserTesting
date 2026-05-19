@@ -1,0 +1,5 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/UsrCreatioWebIntellige/Schemas/UsrCreatioWebIntellige/UsrCreatioWebIntellige.cs" Condition="Exists('$(PkgPath)/UsrCreatioWebIntellige/Schemas/UsrCreatioWebIntellige/UsrCreatioWebIntellige.cs')" />
+	</ItemGroup>
+</Project>

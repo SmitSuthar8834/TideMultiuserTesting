@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e5547a64-e7eb-4902-9470-743fb1040635",
+    "Name": "UsrCreatioWebIntellige_FormPage",
+    "ModifiedOnUtc": "\/Date(1778070604000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Creatio Web Intelligence form page",
+    "DependsOn": []
+  }
+}
